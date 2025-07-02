@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "c4953b06-5b19-4676-ae51-089c3c43a51c"
+      }
+    },
+    "owner": "daniel.fedatto"
   }
 }
